@@ -23,7 +23,6 @@ I design backend systems with a focus on:
 - Event-driven & serverless patterns
 - Performance (Big-O, query design, access patterns)
 - Production reliability
-- Principle of Least Privilege (IAM-first mindset)
 
 ---
 
